@@ -25,4 +25,8 @@ __Nota:__ Lo más fácil es importar el proyecto en algún IDE como CLion y toca
 
 Nuevos contribuidores son bienvenidos.
 
+Pueden encontrarme en el Discord de AO Libre:
+
+[![Discord](https://img.shields.io/discord/479056868707270657?color=blueviolet&label=discord)](https://discord.gg/4Wd4EMwnFm)
+
 Sepan que, a la fecha, el proyecto está __muy verde__ y su futuro es incierto.
